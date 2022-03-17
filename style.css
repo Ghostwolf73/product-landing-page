@@ -5,6 +5,7 @@
     font-family: 'Poppins', sans-serif;
     padding-left: 2%;
     padding-right: 2%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 }
 
@@ -208,6 +209,11 @@ section{
 .icon:hover{
     color: #5c539d;
     transform: scale(1.1);
+}
+
+footer{
+    margin: 25px;
+    text-align:center;
 }
 
 @media (max-width: 600px) {
